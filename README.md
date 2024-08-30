@@ -18,5 +18,8 @@ This project implements a CycleGAN model, leveraging the [CycleGAN and pix2pix r
 - `Link_to_open_source-cycleGAN.txt`: A reference link to the CycleGAN and pix2pix GitHub repository used as the base model.
 
 Results
-The results include real-time image transformations showcasing clothing swaps and other feature modifications. Below is an example of the live inference output:![Screenshot 2024-08-30 161715](https://github.com/user-attachments/assets/10e5ae5c-d5ac-4de3-aeee-7834ffdd4648)
+The results include real-time image transformations showcasing clothing swaps and other feature modifications. Below is an example of the live inference output:
+Source to target:
+![Screenshot 2024-08-30 161715](https://github.com/user-attachments/assets/10e5ae5c-d5ac-4de3-aeee-7834ffdd4648)
+10 cycles from the training process:
 ![Screenshot 2024-08-30 161737](https://github.com/user-attachments/assets/b92ee1bc-ac59-45ae-8ef5-d5b8d5420d72)
